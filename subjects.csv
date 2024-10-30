@@ -1,0 +1,1001 @@
+student_id,subject_name,score
+6,Operating System,61
+899,Operating System,59
+259,Computer Graphics,81
+838,Computer Networks,34
+331,Computer Graphics,58
+611,Calculus,84
+260,Advanced Programming,49
+956,Object Oriented Programming,40
+610,Network Centric Computing,62
+797,Theory of Automata,29
+323,Calculus,23
+503,Human Computer Interaction,26
+446,Advanced Programming,38
+808,Advanced Programming,34
+221,Operating System,1
+548,Algorithms,69
+407,Operating System,26
+695,Computer Networks,23
+340,Object Oriented Programming,34
+242,Algorithms,84
+163,Object Oriented Programming,23
+776,Advanced Programming,21
+381,Advanced Programming,43
+731,Computer Networks,42
+303,Computer Networks,4
+50,Computer Graphics,59
+256,Computer Networks,24
+757,Computer Vision,74
+111,Human Computer Interaction,76
+382,Data Structures,97
+259,Computer Graphics,52
+410,Human Computer Interaction,79
+953,Operating System,38
+481,Operating System,33
+949,Computer Networks,49
+59,Computer Graphics,95
+448,Theory of Automata,36
+726,Object Oriented Programming,85
+188,Theory of Automata,8
+677,Algorithms,66
+573,Theory of Automata,39
+173,Computer Networks,37
+580,Human Computer Interaction,17
+96,Theory of Automata,25
+547,Computer Vision,48
+227,Algorithms,39
+658,Advanced Programming,34
+641,Operating System,31
+406,Operating System,0
+444,Advanced Programming,76
+718,Human Computer Interaction,81
+46,Object Oriented Programming,6
+286,Advanced Programming,33
+488,Human Computer Interaction,100
+700,Data Structures,2
+710,Network Centric Computing,70
+100,Computer Vision,81
+218,Object Oriented Programming,100
+959,Object Oriented Programming,52
+418,Object Oriented Programming,55
+955,Algorithms,99
+52,Network Centric Computing,14
+158,Network Centric Computing,58
+176,Computer Vision,38
+920,Computer Graphics,23
+811,Human Computer Interaction,75
+619,Advanced Programming,82
+744,Theory of Automata,20
+764,Algorithms,46
+215,Object Oriented Programming,18
+52,Computer Vision,16
+269,Computer Networks,65
+465,Data Structures,74
+883,Calculus,62
+566,Algorithms,16
+426,Network Centric Computing,70
+421,Theory of Automata,34
+952,Operating System,69
+125,Calculus,76
+926,Advanced Programming,40
+931,Advanced Programming,9
+106,Computer Networks,5
+836,Data Structures,97
+44,Computer Networks,16
+45,Algorithms,67
+669,Human Computer Interaction,21
+977,Advanced Programming,1
+637,Computer Networks,9
+65,Object Oriented Programming,48
+367,Advanced Programming,56
+816,Human Computer Interaction,59
+790,Computer Graphics,61
+856,Computer Networks,57
+952,Object Oriented Programming,32
+533,Calculus,98
+441,Computer Vision,71
+959,Object Oriented Programming,27
+545,Data Structures,97
+824,Calculus,62
+623,Theory of Automata,5
+661,Computer Graphics,4
+967,Human Computer Interaction,86
+352,Human Computer Interaction,37
+348,Algorithms,35
+560,Computer Vision,26
+624,Human Computer Interaction,42
+313,Computer Vision,15
+141,Calculus,14
+540,Operating System,52
+933,Algorithms,86
+204,Advanced Programming,40
+58,Computer Networks,68
+965,Computer Networks,84
+517,Computer Vision,13
+13,Computer Vision,25
+260,Operating System,60
+320,Data Structures,36
+321,Computer Graphics,48
+541,Network Centric Computing,51
+270,Computer Vision,16
+954,Data Structures,55
+176,Advanced Programming,37
+694,Computer Vision,75
+332,Data Structures,1
+470,Computer Networks,100
+386,Advanced Programming,80
+280,Advanced Programming,51
+225,Theory of Automata,99
+303,Calculus,41
+510,Human Computer Interaction,47
+233,Computer Vision,70
+508,Object Oriented Programming,79
+624,Computer Networks,81
+568,Calculus,43
+754,Theory of Automata,76
+987,Computer Graphics,63
+362,Human Computer Interaction,57
+732,Operating System,79
+71,Algorithms,25
+333,Human Computer Interaction,51
+527,Human Computer Interaction,77
+18,Computer Graphics,91
+467,Human Computer Interaction,29
+474,Computer Vision,31
+707,Calculus,21
+13,Human Computer Interaction,54
+395,Network Centric Computing,73
+266,Computer Networks,60
+236,Calculus,78
+179,Network Centric Computing,44
+529,Network Centric Computing,99
+396,Human Computer Interaction,53
+839,Computer Graphics,27
+290,Calculus,62
+749,Operating System,85
+684,Operating System,3
+312,Human Computer Interaction,16
+237,Advanced Programming,58
+46,Human Computer Interaction,19
+566,Advanced Programming,11
+154,Computer Graphics,85
+739,Human Computer Interaction,56
+636,Advanced Programming,3
+851,Human Computer Interaction,31
+661,Calculus,18
+426,Computer Networks,56
+104,Theory of Automata,46
+385,Data Structures,28
+766,Advanced Programming,17
+261,Data Structures,68
+625,Human Computer Interaction,72
+332,Computer Graphics,29
+368,Calculus,34
+413,Network Centric Computing,2
+421,Data Structures,48
+798,Computer Vision,68
+806,Network Centric Computing,39
+483,Theory of Automata,79
+523,Computer Vision,28
+858,Computer Networks,91
+265,Calculus,10
+54,Computer Graphics,0
+120,Theory of Automata,16
+864,Human Computer Interaction,15
+642,Computer Networks,79
+488,Network Centric Computing,15
+548,Data Structures,49
+312,Theory of Automata,21
+176,Operating System,12
+940,Theory of Automata,75
+605,Operating System,49
+326,Computer Graphics,53
+713,Computer Vision,37
+740,Human Computer Interaction,24
+655,Calculus,44
+994,Object Oriented Programming,84
+919,Network Centric Computing,91
+134,Object Oriented Programming,73
+879,Object Oriented Programming,99
+581,Computer Graphics,5
+542,Calculus,71
+75,Computer Vision,82
+752,Algorithms,71
+783,Algorithms,37
+400,Object Oriented Programming,7
+588,Calculus,39
+542,Computer Vision,24
+906,Advanced Programming,83
+344,Algorithms,90
+690,Object Oriented Programming,34
+309,Computer Networks,94
+122,Network Centric Computing,5
+342,Advanced Programming,83
+610,Object Oriented Programming,92
+883,Calculus,41
+942,Computer Graphics,88
+523,Network Centric Computing,99
+285,Network Centric Computing,98
+157,Calculus,0
+217,Object Oriented Programming,60
+295,Computer Networks,29
+307,Computer Graphics,66
+98,Operating System,3
+623,Algorithms,78
+213,Algorithms,95
+747,Theory of Automata,76
+254,Object Oriented Programming,32
+649,Computer Graphics,54
+619,Object Oriented Programming,2
+206,Computer Networks,69
+161,Theory of Automata,11
+55,Human Computer Interaction,41
+968,Operating System,58
+556,Computer Graphics,66
+593,Algorithms,18
+799,Advanced Programming,55
+6,Object Oriented Programming,60
+554,Advanced Programming,85
+43,Computer Networks,91
+76,Operating System,64
+785,Human Computer Interaction,100
+263,Calculus,4
+106,Network Centric Computing,48
+498,Object Oriented Programming,48
+92,Object Oriented Programming,71
+682,Algorithms,42
+375,Object Oriented Programming,82
+613,Computer Vision,75
+253,Human Computer Interaction,50
+52,Theory of Automata,76
+726,Object Oriented Programming,15
+464,Calculus,98
+202,Object Oriented Programming,95
+943,Theory of Automata,52
+437,Operating System,45
+137,Human Computer Interaction,44
+432,Computer Networks,4
+629,Human Computer Interaction,44
+620,Advanced Programming,59
+477,Theory of Automata,28
+981,Computer Networks,68
+52,Data Structures,91
+399,Human Computer Interaction,82
+726,Data Structures,53
+960,Computer Vision,99
+154,Object Oriented Programming,53
+864,Network Centric Computing,66
+357,Data Structures,57
+986,Algorithms,40
+538,Operating System,66
+724,Computer Networks,44
+748,Advanced Programming,40
+244,Calculus,42
+570,Computer Graphics,53
+751,Computer Graphics,98
+207,Computer Vision,17
+686,Theory of Automata,97
+316,Theory of Automata,19
+69,Network Centric Computing,43
+737,Computer Vision,49
+521,Algorithms,3
+826,Advanced Programming,41
+339,Advanced Programming,10
+356,Operating System,65
+67,Data Structures,85
+850,Computer Networks,9
+366,Computer Networks,25
+276,Operating System,86
+431,Object Oriented Programming,72
+631,Computer Networks,13
+418,Computer Networks,54
+847,Data Structures,50
+328,Human Computer Interaction,36
+616,Algorithms,27
+580,Computer Networks,32
+149,Network Centric Computing,49
+415,Computer Networks,4
+130,Algorithms,4
+550,Algorithms,46
+710,Calculus,1
+994,Computer Graphics,45
+22,Operating System,80
+669,Calculus,31
+852,Human Computer Interaction,75
+215,Object Oriented Programming,0
+357,Object Oriented Programming,89
+827,Theory of Automata,33
+401,Computer Graphics,0
+462,Computer Vision,42
+376,Algorithms,63
+547,Computer Networks,27
+140,Human Computer Interaction,85
+741,Computer Networks,94
+711,Computer Graphics,11
+875,Human Computer Interaction,42
+433,Calculus,54
+523,Computer Vision,23
+405,Computer Networks,93
+618,Object Oriented Programming,45
+710,Data Structures,97
+185,Computer Graphics,50
+525,Operating System,28
+223,Operating System,57
+21,Network Centric Computing,46
+783,Computer Vision,11
+711,Human Computer Interaction,51
+700,Computer Graphics,56
+806,Computer Networks,9
+321,Computer Networks,7
+688,Calculus,38
+686,Computer Vision,30
+845,Object Oriented Programming,39
+589,Object Oriented Programming,79
+636,Data Structures,10
+708,Computer Networks,100
+435,Theory of Automata,64
+93,Operating System,74
+584,Computer Vision,35
+82,Advanced Programming,79
+340,Theory of Automata,46
+855,Theory of Automata,84
+522,Object Oriented Programming,33
+26,Advanced Programming,91
+339,Data Structures,46
+801,Object Oriented Programming,62
+395,Advanced Programming,86
+769,Object Oriented Programming,84
+761,Theory of Automata,58
+523,Computer Networks,58
+604,Computer Graphics,2
+907,Network Centric Computing,4
+634,Operating System,70
+822,Computer Vision,38
+973,Human Computer Interaction,49
+871,Computer Vision,21
+299,Calculus,29
+786,Computer Vision,8
+428,Object Oriented Programming,17
+618,Human Computer Interaction,19
+145,Network Centric Computing,5
+877,Data Structures,40
+938,Network Centric Computing,62
+511,Algorithms,70
+430,Data Structures,50
+473,Computer Graphics,19
+882,Human Computer Interaction,13
+454,Network Centric Computing,88
+690,Computer Vision,31
+819,Computer Networks,78
+740,Computer Vision,1
+230,Computer Networks,36
+121,Computer Networks,91
+261,Object Oriented Programming,12
+771,Theory of Automata,83
+509,Calculus,6
+497,Object Oriented Programming,96
+736,Computer Networks,16
+775,Advanced Programming,32
+990,Calculus,17
+614,Advanced Programming,21
+377,Operating System,74
+424,Data Structures,29
+995,Computer Vision,82
+833,Object Oriented Programming,21
+954,Network Centric Computing,9
+414,Calculus,81
+858,Computer Networks,57
+923,Data Structures,38
+698,Operating System,15
+788,Human Computer Interaction,13
+473,Computer Graphics,80
+870,Human Computer Interaction,18
+227,Calculus,60
+979,Computer Vision,96
+241,Computer Graphics,83
+536,Computer Networks,43
+326,Network Centric Computing,32
+357,Computer Vision,10
+930,Operating System,81
+977,Computer Graphics,97
+38,Computer Graphics,22
+774,Advanced Programming,82
+163,Computer Graphics,98
+60,Computer Graphics,44
+680,Data Structures,84
+260,Calculus,57
+643,Advanced Programming,37
+556,Object Oriented Programming,81
+510,Human Computer Interaction,75
+457,Object Oriented Programming,31
+915,Advanced Programming,40
+393,Operating System,1
+744,Computer Networks,32
+230,Object Oriented Programming,88
+457,Algorithms,62
+994,Data Structures,72
+317,Network Centric Computing,97
+608,Calculus,17
+939,Advanced Programming,85
+745,Algorithms,25
+626,Computer Graphics,40
+628,Object Oriented Programming,35
+426,Human Computer Interaction,1
+446,Computer Graphics,6
+891,Algorithms,28
+931,Object Oriented Programming,96
+949,Calculus,43
+542,Theory of Automata,94
+933,Computer Graphics,96
+720,Algorithms,22
+925,Theory of Automata,93
+62,Calculus,48
+613,Operating System,91
+260,Advanced Programming,87
+666,Computer Networks,0
+357,Operating System,18
+153,Computer Networks,18
+281,Human Computer Interaction,59
+610,Data Structures,62
+415,Human Computer Interaction,64
+568,Network Centric Computing,68
+121,Computer Graphics,62
+106,Computer Networks,89
+534,Computer Networks,61
+264,Computer Graphics,20
+348,Computer Vision,62
+516,Operating System,8
+413,Operating System,68
+156,Network Centric Computing,4
+192,Data Structures,100
+501,Human Computer Interaction,73
+332,Data Structures,52
+374,Computer Graphics,87
+758,Human Computer Interaction,16
+771,Data Structures,46
+25,Calculus,28
+933,Network Centric Computing,15
+968,Human Computer Interaction,20
+96,Algorithms,76
+378,Operating System,81
+4,Computer Networks,100
+884,Algorithms,23
+909,Data Structures,87
+468,Computer Graphics,17
+647,Algorithms,8
+495,Object Oriented Programming,97
+995,Calculus,92
+308,Theory of Automata,44
+958,Computer Networks,88
+100,Theory of Automata,84
+26,Object Oriented Programming,91
+790,Advanced Programming,83
+38,Advanced Programming,69
+958,Object Oriented Programming,34
+348,Computer Vision,49
+261,Theory of Automata,78
+357,Theory of Automata,63
+492,Operating System,33
+147,Algorithms,38
+396,Calculus,46
+502,Object Oriented Programming,30
+109,Human Computer Interaction,18
+60,Computer Networks,96
+729,Advanced Programming,77
+168,Computer Vision,50
+637,Object Oriented Programming,19
+109,Computer Graphics,86
+760,Advanced Programming,94
+328,Computer Graphics,80
+71,Computer Vision,26
+548,Computer Networks,68
+778,Human Computer Interaction,21
+579,Data Structures,38
+228,Object Oriented Programming,44
+212,Computer Vision,5
+298,Data Structures,63
+489,Theory of Automata,71
+380,Computer Graphics,2
+110,Advanced Programming,25
+581,Object Oriented Programming,15
+809,Algorithms,92
+840,Theory of Automata,58
+268,Computer Networks,33
+451,Computer Networks,93
+527,Object Oriented Programming,38
+212,Network Centric Computing,0
+210,Computer Vision,31
+242,Data Structures,89
+780,Theory of Automata,18
+284,Operating System,16
+328,Object Oriented Programming,21
+673,Theory of Automata,27
+483,Computer Graphics,26
+142,Algorithms,71
+857,Data Structures,3
+210,Calculus,71
+925,Computer Networks,11
+730,Operating System,63
+851,Human Computer Interaction,65
+708,Advanced Programming,1
+619,Algorithms,74
+203,Advanced Programming,47
+389,Advanced Programming,21
+154,Theory of Automata,58
+615,Human Computer Interaction,5
+146,Computer Graphics,73
+310,Computer Vision,83
+900,Calculus,75
+814,Computer Networks,22
+167,Object Oriented Programming,69
+162,Calculus,84
+627,Calculus,41
+845,Operating System,22
+386,Computer Vision,49
+492,Advanced Programming,72
+514,Theory of Automata,62
+314,Algorithms,33
+579,Object Oriented Programming,37
+343,Data Structures,90
+332,Human Computer Interaction,15
+618,Object Oriented Programming,48
+368,Computer Graphics,60
+554,Operating System,28
+387,Network Centric Computing,39
+719,Network Centric Computing,60
+321,Advanced Programming,44
+602,Object Oriented Programming,16
+279,Computer Graphics,94
+21,Theory of Automata,36
+586,Advanced Programming,71
+448,Computer Networks,0
+748,Human Computer Interaction,97
+358,Computer Vision,51
+45,Computer Graphics,8
+186,Computer Networks,57
+564,Network Centric Computing,94
+287,Computer Networks,66
+269,Computer Networks,73
+55,Advanced Programming,33
+956,Computer Networks,61
+711,Computer Graphics,29
+564,Computer Vision,53
+590,Computer Networks,96
+190,Computer Graphics,99
+169,Human Computer Interaction,89
+601,Computer Vision,64
+864,Computer Networks,79
+49,Computer Graphics,13
+199,Human Computer Interaction,76
+1000,Operating System,22
+527,Computer Networks,31
+14,Object Oriented Programming,29
+293,Network Centric Computing,40
+500,Computer Vision,23
+13,Computer Vision,13
+308,Data Structures,15
+323,Network Centric Computing,50
+790,Object Oriented Programming,65
+268,Algorithms,91
+744,Object Oriented Programming,18
+246,Computer Vision,31
+779,Computer Networks,90
+694,Computer Graphics,8
+243,Network Centric Computing,81
+421,Object Oriented Programming,85
+1000,Human Computer Interaction,30
+224,Computer Networks,29
+777,Advanced Programming,66
+168,Computer Networks,100
+540,Network Centric Computing,51
+543,Theory of Automata,81
+274,Human Computer Interaction,31
+504,Calculus,36
+83,Object Oriented Programming,23
+486,Network Centric Computing,19
+8,Object Oriented Programming,46
+723,Theory of Automata,95
+886,Computer Vision,8
+834,Computer Vision,2
+246,Theory of Automata,3
+366,Data Structures,60
+799,Human Computer Interaction,50
+539,Computer Vision,68
+171,Data Structures,62
+237,Object Oriented Programming,83
+67,Human Computer Interaction,71
+344,Computer Graphics,91
+416,Human Computer Interaction,58
+771,Human Computer Interaction,37
+717,Algorithms,31
+3,Advanced Programming,31
+854,Computer Vision,93
+642,Data Structures,64
+726,Operating System,41
+357,Computer Networks,75
+468,Operating System,93
+569,Data Structures,67
+870,Human Computer Interaction,53
+742,Operating System,13
+480,Computer Graphics,82
+126,Theory of Automata,1
+835,Computer Networks,24
+295,Calculus,58
+666,Object Oriented Programming,4
+864,Computer Graphics,97
+370,Computer Networks,6
+41,Computer Graphics,39
+653,Computer Networks,71
+44,Advanced Programming,6
+562,Object Oriented Programming,91
+356,Operating System,40
+489,Algorithms,47
+357,Computer Networks,77
+336,Human Computer Interaction,18
+864,Network Centric Computing,23
+658,Algorithms,86
+566,Algorithms,41
+362,Advanced Programming,43
+41,Algorithms,21
+41,Calculus,16
+862,Object Oriented Programming,79
+686,Calculus,57
+262,Operating System,43
+911,Operating System,38
+292,Algorithms,57
+983,Calculus,64
+105,Object Oriented Programming,77
+9,Computer Networks,43
+203,Computer Graphics,42
+773,Algorithms,12
+855,Data Structures,88
+113,Network Centric Computing,12
+696,Computer Graphics,89
+537,Calculus,81
+294,Computer Networks,62
+801,Data Structures,66
+102,Human Computer Interaction,49
+528,Computer Networks,83
+684,Advanced Programming,0
+580,Human Computer Interaction,59
+350,Operating System,78
+634,Algorithms,73
+146,Object Oriented Programming,64
+536,Operating System,43
+669,Algorithms,71
+131,Network Centric Computing,56
+257,Advanced Programming,11
+292,Computer Graphics,11
+14,Computer Networks,32
+546,Calculus,58
+537,Computer Vision,98
+233,Computer Graphics,22
+590,Advanced Programming,93
+946,Computer Graphics,9
+880,Object Oriented Programming,31
+143,Computer Vision,23
+167,Computer Networks,24
+232,Data Structures,59
+148,Algorithms,83
+112,Calculus,86
+792,Data Structures,16
+250,Theory of Automata,71
+536,Network Centric Computing,38
+958,Calculus,1
+804,Theory of Automata,62
+968,Human Computer Interaction,96
+582,Computer Vision,40
+287,Algorithms,49
+465,Object Oriented Programming,3
+161,Operating System,63
+842,Human Computer Interaction,6
+416,Algorithms,78
+274,Network Centric Computing,13
+60,Operating System,40
+372,Advanced Programming,67
+773,Computer Networks,69
+508,Data Structures,86
+983,Computer Networks,81
+376,Computer Networks,45
+683,Calculus,57
+829,Data Structures,2
+709,Algorithms,18
+507,Computer Networks,43
+75,Computer Networks,4
+354,Computer Networks,74
+40,Computer Networks,71
+655,Computer Graphics,46
+502,Human Computer Interaction,8
+701,Computer Graphics,72
+382,Advanced Programming,24
+492,Computer Graphics,47
+685,Computer Networks,16
+871,Calculus,100
+688,Human Computer Interaction,35
+287,Network Centric Computing,24
+489,Operating System,12
+18,Network Centric Computing,83
+266,Object Oriented Programming,74
+355,Human Computer Interaction,73
+392,Calculus,7
+539,Computer Graphics,87
+588,Algorithms,51
+575,Calculus,65
+589,Theory of Automata,16
+844,Human Computer Interaction,87
+867,Computer Vision,28
+354,Network Centric Computing,91
+664,Object Oriented Programming,2
+592,Computer Vision,18
+685,Data Structures,58
+214,Network Centric Computing,54
+835,Calculus,99
+453,Advanced Programming,57
+925,Network Centric Computing,86
+891,Human Computer Interaction,83
+586,Data Structures,21
+300,Object Oriented Programming,77
+34,Advanced Programming,19
+645,Operating System,71
+812,Algorithms,31
+738,Operating System,60
+858,Computer Graphics,15
+378,Theory of Automata,30
+270,Calculus,22
+806,Human Computer Interaction,3
+590,Computer Vision,43
+684,Advanced Programming,69
+589,Theory of Automata,13
+248,Computer Graphics,66
+225,Theory of Automata,98
+606,Operating System,19
+562,Data Structures,72
+856,Theory of Automata,19
+903,Theory of Automata,66
+866,Data Structures,63
+303,Human Computer Interaction,14
+491,Theory of Automata,5
+285,Data Structures,7
+584,Computer Networks,43
+935,Data Structures,14
+374,Computer Vision,84
+718,Advanced Programming,20
+735,Calculus,35
+536,Network Centric Computing,88
+362,Operating System,66
+656,Calculus,37
+45,Theory of Automata,16
+190,Theory of Automata,47
+894,Computer Networks,45
+939,Network Centric Computing,5
+843,Computer Graphics,84
+427,Network Centric Computing,18
+921,Computer Vision,97
+825,Human Computer Interaction,33
+204,Computer Networks,18
+748,Operating System,79
+575,Calculus,44
+483,Network Centric Computing,99
+677,Computer Vision,23
+855,Algorithms,24
+485,Human Computer Interaction,36
+689,Computer Graphics,20
+367,Object Oriented Programming,53
+214,Human Computer Interaction,23
+103,Object Oriented Programming,76
+966,Advanced Programming,97
+776,Computer Vision,22
+253,Object Oriented Programming,36
+23,Computer Graphics,86
+153,Calculus,41
+498,Operating System,15
+424,Calculus,77
+74,Data Structures,29
+736,Object Oriented Programming,36
+459,Computer Networks,24
+717,Advanced Programming,69
+725,Calculus,1
+766,Computer Networks,45
+871,Data Structures,32
+700,Operating System,48
+38,Human Computer Interaction,96
+426,Theory of Automata,41
+824,Operating System,1
+787,Operating System,6
+905,Computer Vision,9
+127,Computer Graphics,63
+590,Theory of Automata,26
+604,Object Oriented Programming,82
+129,Theory of Automata,57
+687,Theory of Automata,87
+498,Human Computer Interaction,44
+609,Advanced Programming,68
+668,Object Oriented Programming,54
+162,Computer Vision,75
+449,Calculus,9
+685,Computer Graphics,23
+877,Object Oriented Programming,93
+684,Data Structures,68
+902,Computer Graphics,0
+650,Network Centric Computing,70
+371,Human Computer Interaction,45
+268,Computer Graphics,46
+980,Computer Networks,86
+79,Object Oriented Programming,85
+441,Computer Vision,35
+604,Computer Vision,64
+771,Advanced Programming,58
+958,Advanced Programming,6
+958,Theory of Automata,92
+795,Advanced Programming,95
+910,Object Oriented Programming,87
+473,Computer Vision,2
+220,Theory of Automata,4
+510,Computer Vision,78
+879,Operating System,49
+557,Advanced Programming,82
+742,Network Centric Computing,0
+723,Object Oriented Programming,83
+381,Network Centric Computing,35
+491,Theory of Automata,62
+288,Operating System,58
+403,Data Structures,54
+788,Algorithms,0
+700,Algorithms,72
+603,Operating System,91
+209,Advanced Programming,6
+524,Network Centric Computing,32
+817,Advanced Programming,26
+756,Calculus,99
+288,Computer Vision,21
+116,Calculus,65
+401,Theory of Automata,22
+289,Data Structures,13
+159,Algorithms,17
+924,Human Computer Interaction,7
+690,Data Structures,7
+886,Data Structures,76
+846,Advanced Programming,79
+270,Calculus,13
+334,Computer Vision,89
+346,Object Oriented Programming,96
+437,Network Centric Computing,23
+288,Computer Graphics,71
+754,Algorithms,88
+196,Theory of Automata,82
+68,Computer Networks,49
+592,Network Centric Computing,47
+120,Advanced Programming,37
+444,Advanced Programming,14
+32,Computer Networks,29
+822,Algorithms,69
+133,Computer Networks,23
+196,Computer Vision,20
+963,Operating System,72
+266,Computer Networks,86
+802,Computer Networks,95
+243,Computer Vision,11
+617,Network Centric Computing,53
+222,Computer Networks,92
+153,Computer Graphics,77
+380,Algorithms,5
+239,Object Oriented Programming,38
+359,Operating System,78
+621,Calculus,87
+899,Computer Networks,96
+824,Computer Vision,5
+497,Computer Networks,4
+396,Object Oriented Programming,34
+687,Calculus,65
+183,Calculus,64
+846,Computer Networks,79
+134,Network Centric Computing,4
+631,Network Centric Computing,72
+849,Human Computer Interaction,63
+911,Data Structures,2
+905,Data Structures,83
+265,Computer Vision,74
+719,Advanced Programming,25
+2,Object Oriented Programming,65
+481,Computer Vision,6
+266,Operating System,77
+543,Network Centric Computing,17
+466,Theory of Automata,28
+435,Computer Networks,37
+463,Data Structures,38
+701,Computer Networks,1
+227,Advanced Programming,93
+222,Computer Vision,85
+623,Human Computer Interaction,76
+554,Operating System,94
+444,Calculus,42
+783,Human Computer Interaction,16
+729,Operating System,18
+870,Computer Graphics,15
+101,Network Centric Computing,28
+191,Human Computer Interaction,70
+818,Computer Vision,7
+715,Computer Vision,64
+10,Theory of Automata,44
+211,Computer Vision,49
+384,Network Centric Computing,65
+801,Network Centric Computing,22
+468,Object Oriented Programming,11
+39,Data Structures,27
+7,Advanced Programming,67
+45,Advanced Programming,90
+101,Theory of Automata,2
+381,Data Structures,76
+668,Computer Networks,29
+254,Data Structures,65
+100,Advanced Programming,100
+164,Human Computer Interaction,21
+960,Calculus,5
+687,Computer Graphics,52
+637,Algorithms,4
+253,Calculus,97
+444,Algorithms,48
+772,Advanced Programming,83
+601,Network Centric Computing,98
+411,Human Computer Interaction,26
+272,Calculus,100
+455,Computer Graphics,54
+396,Network Centric Computing,1
+769,Calculus,62
+52,Calculus,71
+414,Theory of Automata,93
+119,Network Centric Computing,77
+902,Operating System,96
+98,Calculus,10
+975,Computer Graphics,44
+74,Object Oriented Programming,35
+479,Theory of Automata,21
+144,Computer Vision,1
+211,Calculus,0
+648,Computer Networks,94
+204,Computer Networks,65
+506,Calculus,4
+658,Human Computer Interaction,15
+836,Human Computer Interaction,4
+830,Network Centric Computing,9
+469,Human Computer Interaction,83
+823,Network Centric Computing,57
+130,Operating System,8
+715,Computer Vision,89
+770,Human Computer Interaction,54
+386,Object Oriented Programming,42
+415,Calculus,42
+221,Theory of Automata,98
+130,Network Centric Computing,47
+655,Theory of Automata,9
+938,Computer Graphics,22
+964,Human Computer Interaction,65
+847,Theory of Automata,82
+537,Object Oriented Programming,100
+403,Data Structures,7
+574,Algorithms,75
+624,Computer Graphics,45
+179,Computer Graphics,22
+858,Calculus,78
+193,Advanced Programming,3
+495,Human Computer Interaction,10
+895,Data Structures,91
+271,Advanced Programming,96
+786,Data Structures,2
+503,Calculus,49
+464,Human Computer Interaction,6
+451,Algorithms,40
+121,Network Centric Computing,17
+273,Human Computer Interaction,74
+97,Computer Vision,96
+332,Data Structures,99
+469,Computer Vision,30
+337,Computer Networks,8
+891,Computer Graphics,66
+90,Human Computer Interaction,56
+38,Algorithms,86
+879,Human Computer Interaction,35
+172,Advanced Programming,47
+484,Data Structures,62
+943,Advanced Programming,98
