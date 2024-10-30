@@ -12,7 +12,7 @@ This goal of this assignment is to make a simple Learning Management System (LMS
 
 ## Files and Data
 
-Create two files to represent students and subjects data: `students.txt` and `subjects.txt`.
+Create two files to represent students and subjects data: `students.csv` and `subjects.csv`.
 
 ### `students.csv`
 
@@ -77,8 +77,8 @@ student_id,subject_name,score
   - `students` (a hash with student ID as the key and `Student` object as the value)
 
 - **Methods**:
-  - `load_students(file_path)`: Loads student data from `students.txt` and creates `Student` objects.
-  - `load_subjects(file_path)`: Loads subjects from `subjects.txt` and adds them to the corresponding `Student` objects.
+  - `load_students(file_path)`: Loads student data from `students.csv` and creates `Student` objects.
+  - `load_subjects(file_path)`: Loads subjects from `subjects.csv` and adds them to the corresponding `Student` objects.
   - `find_student(id)`: Finds and returns a `Student` object by ID.
   - `student_scores(id)`: Returns a list of subjects and scores for a given student ID.
   - `student_percentage(student_id)`: Calculates the percentage of score of all subjects for a student.
